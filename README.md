@@ -6,7 +6,7 @@ This repository will contain all lectures, labs and project resources, code temp
 
 | **Nr.** | **Date** |       **Topic**       |**Materials** |
 |:-------:|:--------:|:---------------------:|:-------------:|
-|    1    |   7.10  |  _Intro & AI Ethics_  |  [slides](course/C0%20-%20Intro&Ethics.pdf)
+|    1    |   7.10  |  _Intro & AI Ethics_  |  [slides](course/C1-Intro&Ethics.pdf)
 |    2    |  14.10  | _Optimization & Linear Networks_ | |
 |    3    |  28.10   | _Deep Neural Networks_ | |
 |    4    |  11.11   | _Convolutional Neural Networks_ |  |
